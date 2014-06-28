@@ -1,4 +1,4 @@
-# osi-licences-full
+# osi-licenses-full
 
 [All OSI-approved licenses as markdown](licenses)
 
