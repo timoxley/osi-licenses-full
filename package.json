@@ -8,11 +8,18 @@
   },
   "author": "Tim Oxley",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "osi-licenses": "^0.1.0",
     "request": "^2.36.0",
     "scrape-markdown": "0.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timoxley/osi-licenses-full.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timoxley/osi-licenses-full/issues"
+  },
+  "homepage": "https://github.com/timoxley/osi-licenses-full"
 }
